@@ -1,0 +1,1052 @@
+Arbre Newick : 
+ ((((Tobetsu60Cr93,Kamiiso8Cr95),(Tobetsu27S,Tobetsu35S)),(((Muju961,((Muju9928,Muju9927),Muju0018)),((Muju11-5,Muju11-4),Muju11-1)),(FusongCr275,FusongCr247))),((((((KalvuddenMg2205,((KiviniemiMg605,KiviniemiMg505),(AijajarviMg705,(KiviniemiMg305,AijajarviMg905)))),JockfallMg1205),(MoskoselMg1705,(LjustraskMg2005,GyttjeaMg1905))),((PuuVindelnL20Cg83,((Palbole982,Palbole983),((PuuTavelsjoCg8194,Vranica),(((PuuHuggbergetCg3694,((((Djaknebole985,Djaknebole981),Djaknebole984),(Djaknebole982,Djaknebole983)),((Norum987,Norum983),((Palbole981,(Norum984,Norum982)),Norum981)))),((Norum986,Palbole984),Norum985)),((Gumboda982,Gumboda984),(Gumboda981,(((Skaran981,Skaran982),(Gumboda985,Gumboda983)),Skaran983))))))),((PuuMellanselCg4794,PuuMellanselCg4994),(Umeahu,((Bussjo981,Bussjo952),(((Bussjo953,Bussjo951),(Bussjo988,(Bussjo985,((Bussjo992,Bussjo991),Bussjo983)))),((Bussjo982,(Bussjo987,Bussjo984)),Bussjo986))))))),(PUUVJelgavaMg1492008,((((((Sotkamo,((Evo14Cg93,((Evo12Cg93,Evo13Cg93),Evo15Cg93)),PuuVirrat25Cg95)),((Pallasjarvi63Cg98,Kolodozero),(Karhumaki,Gomselga))),(KuhmoX5,KuhmoX11)),((((((PUUVPieksamakihumankidney2008,PUUVPieksamakihumanlung2008),PUUVPieksamakiMg72008),(PUUVKonnevesiMgM94A2005,PUUVKonnevesiMgO57A2005)),PUUVKonnevesiMgO78A2005),PuuPuu1324Cg79),((PUUVKonnevesiMgO15B2005,PUUVKonnevesiMgM114B2005),((PUUVKonnevesiMgO74B2005,PUUVKonnevesiMgO14B2005),((PUUVKonnevesiMgO27B2005,PUUVKonnevesiMgO22B2005),(PUUVKonnevesiMgO6B2005,PUUVKonnevesiMgO9B2005)))))),((((CG315,CRF308),(CG222,CG215)),(CG168,CRF161)),(CG144,CRF366))),((((CG17Baskiria2001,(CG1820,DTKUfa97)),(Udmurtia894Cg91,(Udmurtia444Cg88,(Udmurtia338Cg92,Udmurtia458Cg88)))),((Samara94CG2005,(Samara147CG2005,Samara68CG2005)),(Samara112CG2005,(Samara49CG2005,(Samara6CG2005,Samara128CG2005))))),((Baltic49Cg00,Baltic205Cg00),((PUUVJelgavaMg1362008,PUUVJelgavaMg1402008),(PUUVMadonaMg992008,PUUVMadonaMg2332008))))))),(((Fyn,(Fyn131,Fyn47)),(((((PUUVCroatiaGerovoMg9552008,(PUUVCroatiaGerovoMg9822008,(PUUVCroatiaGerovoMg9382008,PUUVCroatiaGerovoMg9802008))),PUUVCroatiaGerovoMg9792008),(PUUKlippitztoerlCg91995,PUUErnstbrunnCg6411995)),(PUUVMg23HungaryTR1700,PUUVMg9HungaryTR1700)),(Opina916,(((((((MuEb12Lackenberg10,(MuEb14Lackenberg10,BavariaCG4104)),(BavariaCG3404,Bavaria15205)),(MuEb51Elsenthal10,BavariaCG904)),(BavariaCG3304,((Bavaria15705,Bavaria15105),Bavaria15905))),(MuEb4Karlstadt10,(MuEb10Karlstadt10,MuEb6Karlstadt10))),Mu362Osnabrueck05),(((PUUMignovillardCgY022005,CH214),(CH2,(OR29,OR23))),(CG13891,((((Momignies55Cg96,Momignies47Cg96),Couvin59Cg97),(Ard75,Ard156)),((CG14445,(Montbliart23Cg96,CG14444)),Thuin33Cg96)))))))),((((MungaMg205,MungaMg1605),MangelboMg105),((BergsjoboMg2505,PuuSollefteaCg695),(FabovikenMg2605,PuuSollefteaCg395))),(PuuEidsvoll1124v,PuuEidsvollCg113887)))));
+
+Matrice de données Beast : 
+
+Tobetsu60Cr93
+Aire : Asia	 Score : 1.0	 Pere : Noeud-3
+
+Kamiiso8Cr95
+Aire : Asia	 Score : 1.0	 Pere : Noeud-3
+
+Noeud-3
+Aire : Asia	 Score : 1.0	 Pere : Noeud-7
+
+Tobetsu27S
+Aire : Asia	 Score : 1.0	 Pere : Noeud-6
+
+Tobetsu35S
+Aire : Asia	 Score : 1.0	 Pere : Noeud-6
+
+Noeud-6
+Aire : Asia	 Score : 1.0	 Pere : Noeud-7
+
+Noeud-7
+Aire : Asia	 Score : 1.0	 Pere : Noeud-25
+
+Muju961
+Aire : Asia	 Score : 1.0	 Pere : Noeud-14
+
+Muju9928
+Aire : Asia	 Score : 1.0	 Pere : Noeud-11
+
+Muju9927
+Aire : Asia	 Score : 1.0	 Pere : Noeud-11
+
+Noeud-11
+Aire : Asia	 Score : 1.0	 Pere : Noeud-13
+
+Muju0018
+Aire : Asia	 Score : 1.0	 Pere : Noeud-13
+
+Noeud-13
+Aire : Asia	 Score : 1.0	 Pere : Noeud-14
+
+Noeud-14
+Aire : Asia	 Score : 1.0	 Pere : Noeud-20
+
+Muju11-5
+Aire : Asia	 Score : 1.0	 Pere : Noeud-17
+
+Muju11-4
+Aire : Asia	 Score : 1.0	 Pere : Noeud-17
+
+Noeud-17
+Aire : Asia	 Score : 1.0	 Pere : Noeud-19
+
+Muju11-1
+Aire : Asia	 Score : 1.0	 Pere : Noeud-19
+
+Noeud-19
+Aire : Asia	 Score : 1.0	 Pere : Noeud-20
+
+Noeud-20
+Aire : Asia	 Score : 0.999064796259185	 Pere : Noeud-24
+
+FusongCr275
+Aire : Asia	 Score : 1.0	 Pere : Noeud-23
+
+FusongCr247
+Aire : Asia	 Score : 1.0	 Pere : Noeud-23
+
+Noeud-23
+Aire : Asia	 Score : 1.0	 Pere : Noeud-24
+
+Noeud-24
+Aire : Asia	 Score : 0.9872143634385201	 Pere : Noeud-25
+
+Noeud-25
+Aire : Asia	 Score : 0.9387496033005395	 Pere : Noeud-349
+
+KalvuddenMg2205
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-36
+
+KiviniemiMg605
+Aire : FIN	 Score : 1.0	 Pere : Noeud-29
+
+KiviniemiMg505
+Aire : FIN	 Score : 1.0	 Pere : Noeud-29
+
+Noeud-29
+Aire : FIN	 Score : 1.0	 Pere : Noeud-35
+
+AijajarviMg705
+Aire : FIN	 Score : 1.0	 Pere : Noeud-34
+
+KiviniemiMg305
+Aire : FIN	 Score : 1.0	 Pere : Noeud-33
+
+AijajarviMg905
+Aire : FIN	 Score : 1.0	 Pere : Noeud-33
+
+Noeud-33
+Aire : FIN	 Score : 1.0	 Pere : Noeud-34
+
+Noeud-34
+Aire : FIN	 Score : 1.0	 Pere : Noeud-35
+
+Noeud-35
+Aire : FIN	 Score : 0.9999331997327989	 Pere : Noeud-36
+
+Noeud-36
+Aire : N-SCAN	 Score : 0.9957817772778402	 Pere : Noeud-38
+
+JockfallMg1205
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-38
+
+Noeud-38
+Aire : N-SCAN	 Score : 0.998997995991984	 Pere : Noeud-44
+
+MoskoselMg1705
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-43
+
+LjustraskMg2005
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-42
+
+GyttjeaMg1905
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-42
+
+Noeud-42
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-43
+
+Noeud-43
+Aire : N-SCAN	 Score : 0.9999331997327989	 Pere : Noeud-44
+
+Noeud-44
+Aire : N-SCAN	 Score : 0.9995323981295925	 Pere : Noeud-132
+
+PuuVindelnL20Cg83
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-99
+
+Palbole982
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-48
+
+Palbole983
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-48
+
+Noeud-48
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-98
+
+PuuTavelsjoCg8194
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-51
+
+Vranica
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-51
+
+Noeud-51
+Aire : N-SCAN	 Score : 0.9814963259853039	 Pere : Noeud-97
+
+PuuHuggbergetCg3694
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-74
+
+Djaknebole985
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-55
+
+Djaknebole981
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-55
+
+Noeud-55
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-57
+
+Djaknebole984
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-57
+
+Noeud-57
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-61
+
+Djaknebole982
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-60
+
+Djaknebole983
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-60
+
+Noeud-60
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-61
+
+Noeud-61
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-73
+
+Norum987
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-64
+
+Norum983
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-64
+
+Noeud-64
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-72
+
+Palbole981
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-69
+
+Norum984
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-68
+
+Norum982
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-68
+
+Noeud-68
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-69
+
+Noeud-69
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-71
+
+Norum981
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-71
+
+Noeud-71
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-72
+
+Noeud-72
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-73
+
+Noeud-73
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-74
+
+Noeud-74
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-80
+
+Norum986
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-77
+
+Palbole984
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-77
+
+Noeud-77
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-79
+
+Norum985
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-79
+
+Noeud-79
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-80
+
+Noeud-80
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-96
+
+Gumboda982
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-83
+
+Gumboda984
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-83
+
+Noeud-83
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-95
+
+Gumboda981
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-94
+
+Skaran981
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-87
+
+Skaran982
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-87
+
+Noeud-87
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-91
+
+Gumboda985
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-90
+
+Gumboda983
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-90
+
+Noeud-90
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-91
+
+Noeud-91
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-93
+
+Skaran983
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-93
+
+Noeud-93
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-94
+
+Noeud-94
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-95
+
+Noeud-95
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-96
+
+Noeud-96
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-97
+
+Noeud-97
+Aire : N-SCAN	 Score : 0.9999194782188582	 Pere : Noeud-98
+
+Noeud-98
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-99
+
+Noeud-99
+Aire : N-SCAN	 Score : 0.9998663994655979	 Pere : Noeud-131
+
+PuuMellanselCg4794
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-102
+
+PuuMellanselCg4994
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-102
+
+Noeud-102
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-130
+
+Umeahu
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-129
+
+Bussjo981
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-106
+
+Bussjo952
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-106
+
+Noeud-106
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-128
+
+Bussjo953
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-109
+
+Bussjo951
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-109
+
+Noeud-109
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-119
+
+Bussjo988
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-118
+
+Bussjo985
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-117
+
+Bussjo992
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-114
+
+Bussjo991
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-114
+
+Noeud-114
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-116
+
+Bussjo983
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-116
+
+Noeud-116
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-117
+
+Noeud-117
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-118
+
+Noeud-118
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-119
+
+Noeud-119
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-127
+
+Bussjo982
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-124
+
+Bussjo987
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-123
+
+Bussjo984
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-123
+
+Noeud-123
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-124
+
+Noeud-124
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-126
+
+Bussjo986
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-126
+
+Noeud-126
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-127
+
+Noeud-127
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-128
+
+Noeud-128
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-129
+
+Noeud-129
+Aire : N-SCAN	 Score : 1.0	 Pere : Noeud-130
+
+Noeud-130
+Aire : N-SCAN	 Score : 0.9999331997327989	 Pere : Noeud-131
+
+Noeud-131
+Aire : N-SCAN	 Score : 0.9996659986639946	 Pere : Noeud-132
+
+Noeud-132
+Aire : N-SCAN	 Score : 0.9934535738142952	 Pere : Noeud-244
+
+PUUVJelgavaMg1492008
+Aire : BALT	 Score : 1.0	 Pere : Noeud-243
+
+Sotkamo
+Aire : FIN	 Score : 1.0	 Pere : Noeud-144
+
+Evo14Cg93
+Aire : FIN	 Score : 1.0	 Pere : Noeud-141
+
+Evo12Cg93
+Aire : FIN	 Score : 1.0	 Pere : Noeud-138
+
+Evo13Cg93
+Aire : FIN	 Score : 1.0	 Pere : Noeud-138
+
+Noeud-138
+Aire : FIN	 Score : 1.0	 Pere : Noeud-140
+
+Evo15Cg93
+Aire : FIN	 Score : 1.0	 Pere : Noeud-140
+
+Noeud-140
+Aire : FIN	 Score : 1.0	 Pere : Noeud-141
+
+Noeud-141
+Aire : FIN	 Score : 1.0	 Pere : Noeud-143
+
+PuuVirrat25Cg95
+Aire : FIN	 Score : 1.0	 Pere : Noeud-143
+
+Noeud-143
+Aire : FIN	 Score : 1.0	 Pere : Noeud-144
+
+Noeud-144
+Aire : FIN	 Score : 1.0	 Pere : Noeud-152
+
+Pallasjarvi63Cg98
+Aire : FIN	 Score : 1.0	 Pere : Noeud-147
+
+Kolodozero
+Aire : FIN	 Score : 1.0	 Pere : Noeud-147
+
+Noeud-147
+Aire : FIN	 Score : 0.9999264543649334	 Pere : Noeud-151
+
+Karhumaki
+Aire : FIN	 Score : 1.0	 Pere : Noeud-150
+
+Gomselga
+Aire : FIN	 Score : 1.0	 Pere : Noeud-150
+
+Noeud-150
+Aire : FIN	 Score : 0.9998663816141101	 Pere : Noeud-151
+
+Noeud-151
+Aire : FIN	 Score : 1.0	 Pere : Noeud-152
+
+Noeud-152
+Aire : FIN	 Score : 1.0	 Pere : Noeud-156
+
+KuhmoX5
+Aire : FIN	 Score : 1.0	 Pere : Noeud-155
+
+KuhmoX11
+Aire : FIN	 Score : 1.0	 Pere : Noeud-155
+
+Noeud-155
+Aire : FIN	 Score : 1.0	 Pere : Noeud-156
+
+Noeud-156
+Aire : FIN	 Score : 0.9999327369341494	 Pere : Noeud-186
+
+PUUVPieksamakihumankidney2008
+Aire : FIN	 Score : 1.0	 Pere : Noeud-159
+
+PUUVPieksamakihumanlung2008
+Aire : FIN	 Score : 1.0	 Pere : Noeud-159
+
+Noeud-159
+Aire : FIN	 Score : 1.0	 Pere : Noeud-161
+
+PUUVPieksamakiMg72008
+Aire : FIN	 Score : 1.0	 Pere : Noeud-161
+
+Noeud-161
+Aire : FIN	 Score : 1.0	 Pere : Noeud-165
+
+PUUVKonnevesiMgM94A2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-164
+
+PUUVKonnevesiMgO57A2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-164
+
+Noeud-164
+Aire : FIN	 Score : 1.0	 Pere : Noeud-165
+
+Noeud-165
+Aire : FIN	 Score : 1.0	 Pere : Noeud-167
+
+PUUVKonnevesiMgO78A2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-167
+
+Noeud-167
+Aire : FIN	 Score : 1.0	 Pere : Noeud-169
+
+PuuPuu1324Cg79
+Aire : FIN	 Score : 1.0	 Pere : Noeud-169
+
+Noeud-169
+Aire : FIN	 Score : 1.0	 Pere : Noeud-185
+
+PUUVKonnevesiMgO15B2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-172
+
+PUUVKonnevesiMgM114B2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-172
+
+Noeud-172
+Aire : FIN	 Score : 1.0	 Pere : Noeud-184
+
+PUUVKonnevesiMgO74B2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-175
+
+PUUVKonnevesiMgO14B2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-175
+
+Noeud-175
+Aire : FIN	 Score : 1.0	 Pere : Noeud-183
+
+PUUVKonnevesiMgO27B2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-178
+
+PUUVKonnevesiMgO22B2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-178
+
+Noeud-178
+Aire : FIN	 Score : 1.0	 Pere : Noeud-182
+
+PUUVKonnevesiMgO6B2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-181
+
+PUUVKonnevesiMgO9B2005
+Aire : FIN	 Score : 1.0	 Pere : Noeud-181
+
+Noeud-181
+Aire : FIN	 Score : 1.0	 Pere : Noeud-182
+
+Noeud-182
+Aire : FIN	 Score : 1.0	 Pere : Noeud-183
+
+Noeud-183
+Aire : FIN	 Score : 1.0	 Pere : Noeud-184
+
+Noeud-184
+Aire : FIN	 Score : 1.0	 Pere : Noeud-185
+
+Noeud-185
+Aire : FIN	 Score : 0.9997995991983968	 Pere : Noeud-186
+
+Noeud-186
+Aire : FIN	 Score : 0.9955243820975284	 Pere : Noeud-202
+
+CG315
+Aire : Russia	 Score : 1.0	 Pere : Noeud-189
+
+CRF308
+Aire : Russia	 Score : 1.0	 Pere : Noeud-189
+
+Noeud-189
+Aire : Russia	 Score : 1.0	 Pere : Noeud-193
+
+CG222
+Aire : Russia	 Score : 1.0	 Pere : Noeud-192
+
+CG215
+Aire : Russia	 Score : 1.0	 Pere : Noeud-192
+
+Noeud-192
+Aire : Russia	 Score : 1.0	 Pere : Noeud-193
+
+Noeud-193
+Aire : Russia	 Score : 1.0	 Pere : Noeud-197
+
+CG168
+Aire : Russia	 Score : 1.0	 Pere : Noeud-196
+
+CRF161
+Aire : Russia	 Score : 1.0	 Pere : Noeud-196
+
+Noeud-196
+Aire : Russia	 Score : 1.0	 Pere : Noeud-197
+
+Noeud-197
+Aire : Russia	 Score : 1.0	 Pere : Noeud-201
+
+CG144
+Aire : Russia	 Score : 1.0	 Pere : Noeud-200
+
+CRF366
+Aire : Russia	 Score : 1.0	 Pere : Noeud-200
+
+Noeud-200
+Aire : Russia	 Score : 1.0	 Pere : Noeud-201
+
+Noeud-201
+Aire : Russia	 Score : 1.0	 Pere : Noeud-202
+
+Noeud-202
+Aire : Russia	 Score : 0.37755511022044086	 Pere : Noeud-242
+
+CG17Baskiria2001
+Aire : Russia	 Score : 1.0	 Pere : Noeud-207
+
+CG1820
+Aire : Russia	 Score : 1.0	 Pere : Noeud-206
+
+DTKUfa97
+Aire : Russia	 Score : 1.0	 Pere : Noeud-206
+
+Noeud-206
+Aire : Russia	 Score : 1.0	 Pere : Noeud-207
+
+Noeud-207
+Aire : Russia	 Score : 1.0	 Pere : Noeud-215
+
+Udmurtia894Cg91
+Aire : Russia	 Score : 1.0	 Pere : Noeud-214
+
+Udmurtia444Cg88
+Aire : Russia	 Score : 1.0	 Pere : Noeud-213
+
+Udmurtia338Cg92
+Aire : Russia	 Score : 1.0	 Pere : Noeud-212
+
+Udmurtia458Cg88
+Aire : Russia	 Score : 1.0	 Pere : Noeud-212
+
+Noeud-212
+Aire : Russia	 Score : 1.0	 Pere : Noeud-213
+
+Noeud-213
+Aire : Russia	 Score : 1.0	 Pere : Noeud-214
+
+Noeud-214
+Aire : Russia	 Score : 1.0	 Pere : Noeud-215
+
+Noeud-215
+Aire : Russia	 Score : 0.9999248910920835	 Pere : Noeud-229
+
+Samara94CG2005
+Aire : Russia	 Score : 1.0	 Pere : Noeud-220
+
+Samara147CG2005
+Aire : Russia	 Score : 1.0	 Pere : Noeud-219
+
+Samara68CG2005
+Aire : Russia	 Score : 1.0	 Pere : Noeud-219
+
+Noeud-219
+Aire : Russia	 Score : 1.0	 Pere : Noeud-220
+
+Noeud-220
+Aire : Russia	 Score : 1.0	 Pere : Noeud-228
+
+Samara112CG2005
+Aire : Russia	 Score : 1.0	 Pere : Noeud-227
+
+Samara49CG2005
+Aire : Russia	 Score : 1.0	 Pere : Noeud-226
+
+Samara6CG2005
+Aire : Russia	 Score : 1.0	 Pere : Noeud-225
+
+Samara128CG2005
+Aire : Russia	 Score : 1.0	 Pere : Noeud-225
+
+Noeud-225
+Aire : Russia	 Score : 1.0	 Pere : Noeud-226
+
+Noeud-226
+Aire : Russia	 Score : 1.0	 Pere : Noeud-227
+
+Noeud-227
+Aire : Russia	 Score : 1.0	 Pere : Noeud-228
+
+Noeud-228
+Aire : Russia	 Score : 0.9998627881448957	 Pere : Noeud-229
+
+Noeud-229
+Aire : Russia	 Score : 0.9976619906479626	 Pere : Noeud-241
+
+Baltic49Cg00
+Aire : BALT	 Score : 1.0	 Pere : Noeud-232
+
+Baltic205Cg00
+Aire : BALT	 Score : 1.0	 Pere : Noeud-232
+
+Noeud-232
+Aire : BALT	 Score : 0.999064796259185	 Pere : Noeud-240
+
+PUUVJelgavaMg1362008
+Aire : BALT	 Score : 1.0	 Pere : Noeud-235
+
+PUUVJelgavaMg1402008
+Aire : BALT	 Score : 1.0	 Pere : Noeud-235
+
+Noeud-235
+Aire : BALT	 Score : 1.0	 Pere : Noeud-239
+
+PUUVMadonaMg992008
+Aire : BALT	 Score : 1.0	 Pere : Noeud-238
+
+PUUVMadonaMg2332008
+Aire : BALT	 Score : 1.0	 Pere : Noeud-238
+
+Noeud-238
+Aire : BALT	 Score : 1.0	 Pere : Noeud-239
+
+Noeud-239
+Aire : BALT	 Score : 0.9995991983967936	 Pere : Noeud-240
+
+Noeud-240
+Aire : BALT	 Score : 0.9907815631262525	 Pere : Noeud-241
+
+Noeud-241
+Aire : BALT	 Score : 0.40380761523046094	 Pere : Noeud-242
+
+Noeud-242
+Aire : BALT	 Score : 0.35359784801613986	 Pere : Noeud-243
+
+Noeud-243
+Aire : BALT	 Score : 0.36032064128256514	 Pere : Noeud-244
+
+Noeud-244
+Aire : N-SCAN	 Score : 0.5743243243243243	 Pere : Noeud-348
+
+Fyn
+Aire : Denmark	 Score : 1.0	 Pere : Noeud-249
+
+Fyn131
+Aire : Denmark	 Score : 1.0	 Pere : Noeud-248
+
+Fyn47
+Aire : Denmark	 Score : 1.0	 Pere : Noeud-248
+
+Noeud-248
+Aire : Denmark	 Score : 1.0	 Pere : Noeud-249
+
+Noeud-249
+Aire : Denmark	 Score : 0.9958583834335337	 Pere : Noeud-329
+
+PUUVCroatiaGerovoMg9552008
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-256
+
+PUUVCroatiaGerovoMg9822008
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-255
+
+PUUVCroatiaGerovoMg9382008
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-254
+
+PUUVCroatiaGerovoMg9802008
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-254
+
+Noeud-254
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-255
+
+Noeud-255
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-256
+
+Noeud-256
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-258
+
+PUUVCroatiaGerovoMg9792008
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-258
+
+Noeud-258
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-262
+
+PUUKlippitztoerlCg91995
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-261
+
+PUUErnstbrunnCg6411995
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-261
+
+Noeud-261
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-262
+
+Noeud-262
+Aire : ALAD	 Score : 0.9998405866411605	 Pere : Noeud-266
+
+PUUVMg23HungaryTR1700
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-265
+
+PUUVMg9HungaryTR1700
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-265
+
+Noeud-265
+Aire : ALAD	 Score : 0.9999331997327989	 Pere : Noeud-266
+
+Noeud-266
+Aire : ALAD	 Score : 0.9993319973279893	 Pere : Noeud-328
+
+Opina916
+Aire : ALAD	 Score : 1.0	 Pere : Noeud-327
+
+MuEb12Lackenberg10
+Aire : Germany	 Score : 1.0	 Pere : Noeud-272
+
+MuEb14Lackenberg10
+Aire : Germany	 Score : 1.0	 Pere : Noeud-271
+
+BavariaCG4104
+Aire : Germany	 Score : 1.0	 Pere : Noeud-271
+
+Noeud-271
+Aire : Germany	 Score : 1.0	 Pere : Noeud-272
+
+Noeud-272
+Aire : Germany	 Score : 1.0	 Pere : Noeud-276
+
+BavariaCG3404
+Aire : Germany	 Score : 1.0	 Pere : Noeud-275
+
+Bavaria15205
+Aire : Germany	 Score : 1.0	 Pere : Noeud-275
+
+Noeud-275
+Aire : Germany	 Score : 1.0	 Pere : Noeud-276
+
+Noeud-276
+Aire : Germany	 Score : 1.0	 Pere : Noeud-280
+
+MuEb51Elsenthal10
+Aire : Germany	 Score : 1.0	 Pere : Noeud-279
+
+BavariaCG904
+Aire : Germany	 Score : 1.0	 Pere : Noeud-279
+
+Noeud-279
+Aire : Germany	 Score : 1.0	 Pere : Noeud-280
+
+Noeud-280
+Aire : Germany	 Score : 1.0	 Pere : Noeud-288
+
+BavariaCG3304
+Aire : Germany	 Score : 1.0	 Pere : Noeud-287
+
+Bavaria15705
+Aire : Germany	 Score : 1.0	 Pere : Noeud-284
+
+Bavaria15105
+Aire : Germany	 Score : 1.0	 Pere : Noeud-284
+
+Noeud-284
+Aire : Germany	 Score : 1.0	 Pere : Noeud-286
+
+Bavaria15905
+Aire : Germany	 Score : 1.0	 Pere : Noeud-286
+
+Noeud-286
+Aire : Germany	 Score : 1.0	 Pere : Noeud-287
+
+Noeud-287
+Aire : Germany	 Score : 1.0	 Pere : Noeud-288
+
+Noeud-288
+Aire : Germany	 Score : 1.0	 Pere : Noeud-294
+
+MuEb4Karlstadt10
+Aire : Germany	 Score : 1.0	 Pere : Noeud-293
+
+MuEb10Karlstadt10
+Aire : Germany	 Score : 1.0	 Pere : Noeud-292
+
+MuEb6Karlstadt10
+Aire : Germany	 Score : 1.0	 Pere : Noeud-292
+
+Noeud-292
+Aire : Germany	 Score : 1.0	 Pere : Noeud-293
+
+Noeud-293
+Aire : Germany	 Score : 1.0	 Pere : Noeud-294
+
+Noeud-294
+Aire : Germany	 Score : 0.9945223780895124	 Pere : Noeud-296
+
+Mu362Osnabrueck05
+Aire : Germany	 Score : 1.0	 Pere : Noeud-296
+
+Noeud-296
+Aire : Germany	 Score : 0.9012512175020604	 Pere : Noeud-326
+
+PUUMignovillardCgY022005
+Aire : France	 Score : 1.0	 Pere : Noeud-299
+
+CH214
+Aire : France	 Score : 1.0	 Pere : Noeud-299
+
+Noeud-299
+Aire : France	 Score : 0.9996659986639946	 Pere : Noeud-305
+
+CH2
+Aire : France	 Score : 1.0	 Pere : Noeud-304
+
+OR29
+Aire : France	 Score : 1.0	 Pere : Noeud-303
+
+OR23
+Aire : France	 Score : 1.0	 Pere : Noeud-303
+
+Noeud-303
+Aire : France	 Score : 1.0	 Pere : Noeud-304
+
+Noeud-304
+Aire : France	 Score : 0.9993987975951903	 Pere : Noeud-305
+
+Noeud-305
+Aire : France	 Score : 0.9776782730735815	 Pere : Noeud-325
+
+CG13891
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-324
+
+Momignies55Cg96
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-309
+
+Momignies47Cg96
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-309
+
+Noeud-309
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-311
+
+Couvin59Cg97
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-311
+
+Noeud-311
+Aire : Belgium	 Score : 0.9999034562656883	 Pere : Noeud-315
+
+Ard75
+Aire : France	 Score : 1.0	 Pere : Noeud-314
+
+Ard156
+Aire : France	 Score : 1.0	 Pere : Noeud-314
+
+Noeud-314
+Aire : France	 Score : 0.9993987975951903	 Pere : Noeud-315
+
+Noeud-315
+Aire : Belgium	 Score : 0.9987975148640523	 Pere : Noeud-323
+
+CG14445
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-320
+
+Montbliart23Cg96
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-319
+
+CG14444
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-319
+
+Noeud-319
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-320
+
+Noeud-320
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-322
+
+Thuin33Cg96
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-322
+
+Noeud-322
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-323
+
+Noeud-323
+Aire : Belgium	 Score : 1.0	 Pere : Noeud-324
+
+Noeud-324
+Aire : Belgium	 Score : 0.9880427521710087	 Pere : Noeud-325
+
+Noeud-325
+Aire : France	 Score : 0.5678108416739437	 Pere : Noeud-326
+
+Noeud-326
+Aire : Germany	 Score : 0.37489733442843276	 Pere : Noeud-327
+
+Noeud-327
+Aire : ALAD	 Score : 0.7649298597194388	 Pere : Noeud-328
+
+Noeud-328
+Aire : ALAD	 Score : 0.8088648215002006	 Pere : Noeud-329
+
+Noeud-329
+Aire : ALAD	 Score : 0.5534431770173215	 Pere : Noeud-347
+
+MungaMg205
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-332
+
+MungaMg1605
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-332
+
+Noeud-332
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-334
+
+MangelboMg105
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-334
+
+Noeud-334
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-342
+
+BergsjoboMg2505
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-337
+
+PuuSollefteaCg695
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-337
+
+Noeud-337
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-341
+
+FabovikenMg2605
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-340
+
+PuuSollefteaCg395
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-340
+
+Noeud-340
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-341
+
+Noeud-341
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-342
+
+Noeud-342
+Aire : S-SCAN	 Score : 0.998997995991984	 Pere : Noeud-346
+
+PuuEidsvoll1124v
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-345
+
+PuuEidsvollCg113887
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-345
+
+Noeud-345
+Aire : S-SCAN	 Score : 1.0	 Pere : Noeud-346
+
+Noeud-346
+Aire : S-SCAN	 Score : 0.9584502338009352	 Pere : Noeud-347
+
+Noeud-347
+Aire : ALAD	 Score : 0.4924137931034483	 Pere : Noeud-348
+
+Noeud-348
+Aire : N-SCAN	 Score : 0.4300974658869396	 Pere : Noeud-349
+
+Noeud-349
+Aire : Asia	 Score : 0.4986639946559786	 Pere : 
+

@@ -1,0 +1,80 @@
+Arbre Newick : 
+ ((((Tobetsu60Cr93,Kamiiso8Cr95),(Tobetsu27S,Tobetsu35S)),(((Muju961,((Muju9928,Muju9927),Muju0018)),((Muju11-5,Muju11-4),Muju11-1)),(FusongCr275,FusongCr247)));;
+
+Matrice de données Beast : 
+
+Tobetsu60Cr93
+Aire : Asia	 Score : 1.0	 Pere : Noeud-3
+
+Kamiiso8Cr95
+Aire : Asia	 Score : 1.0	 Pere : Noeud-3
+
+Noeud-3
+Aire : Asia	 Score : 1.0	 Pere : Noeud-7
+
+Tobetsu27S
+Aire : Asia	 Score : 1.0	 Pere : Noeud-6
+
+Tobetsu35S
+Aire : Asia	 Score : 1.0	 Pere : Noeud-6
+
+Noeud-6
+Aire : Asia	 Score : 1.0	 Pere : Noeud-7
+
+Noeud-7
+Aire : Asia	 Score : 1.0	 Pere : Noeud-25
+
+Muju961
+Aire : Asia	 Score : 1.0	 Pere : Noeud-14
+
+Muju9928
+Aire : Asia	 Score : 1.0	 Pere : Noeud-11
+
+Muju9927
+Aire : Asia	 Score : 1.0	 Pere : Noeud-11
+
+Noeud-11
+Aire : Asia	 Score : 1.0	 Pere : Noeud-13
+
+Muju0018
+Aire : Asia	 Score : 1.0	 Pere : Noeud-13
+
+Noeud-13
+Aire : Asia	 Score : 1.0	 Pere : Noeud-14
+
+Noeud-14
+Aire : Asia	 Score : 1.0	 Pere : Noeud-20
+
+Muju11-5
+Aire : Asia	 Score : 1.0	 Pere : Noeud-17
+
+Muju11-4
+Aire : Asia	 Score : 1.0	 Pere : Noeud-17
+
+Noeud-17
+Aire : Asia	 Score : 1.0	 Pere : Noeud-19
+
+Muju11-1
+Aire : Asia	 Score : 1.0	 Pere : Noeud-19
+
+Noeud-19
+Aire : Asia	 Score : 1.0	 Pere : Noeud-20
+
+Noeud-20
+Aire : Asia	 Score : 0.999064796259185	 Pere : Noeud-24
+
+FusongCr275
+Aire : Asia	 Score : 1.0	 Pere : Noeud-23
+
+FusongCr247
+Aire : Asia	 Score : 1.0	 Pere : Noeud-23
+
+Noeud-23
+Aire : Asia	 Score : 1.0	 Pere : Noeud-24
+
+Noeud-24
+Aire : Asia	 Score : 0.9872143634385201	 Pere : Noeud-25
+
+Noeud-25
+Aire : Asia	 Score : 0.9387496033005395	 Pere : 
+
