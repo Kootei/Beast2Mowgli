@@ -1,6 +1,3 @@
-// Compile sous mac : clang++ -std=c++11 -stdlib=libc++ main.cpp
-// Compile sous ubuntu : g++ -Wall -std=c++11 -c main.cpp | g++ main.o -o main
-
 #include "main.hpp" 
 
 using namespace std;

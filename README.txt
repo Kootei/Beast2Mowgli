@@ -8,3 +8,10 @@ Pour l'utiliser :
 	Lancez l'exécutable avec la commande :
 	
 		./Beast2Mowgli nom_de_votre_fichier_Beast.txt > nom_de_votre_fichier_B2M.txt
+
+Pour compiler :  
+
+	sous mac : clang++ -std=c++11 -stdlib=libc++ main.cpp -o Beast2Mowgli
+
+	sous ubuntu : g++ -std=c++11 main.cpp -o Beast2Mowgli
+
